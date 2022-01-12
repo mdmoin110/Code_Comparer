@@ -4,7 +4,7 @@ to avoid unexpected results.
 Please compare SampleA and SampleB for Demonstration.
 Code is not minified for readability purpose
 
-Why is the Best code for comparing Javascript code
+Why is this the Best code for comparing Javascript code
 * Ignores single and multi line comments
 * Does not realign the code like all the other websites
 * Can compare files with different lengths and order
